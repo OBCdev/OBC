@@ -1,0 +1,9 @@
+Building ObamaCare
+
+See doc/readme-qt.rst for instructions on building ObamaCare QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ObamaCare.
+
+See doc/build-*.txt for instructions on building obamacared,
+the intended-for-services, no-graphical-interface, reference
+implementation of ObamaCare.
