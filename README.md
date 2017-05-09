@@ -3,6 +3,15 @@ ObamaCare development tree
 
 ObamaCare is a PoS-based cryptocurrency.
 
+POW/POS Coin
+
+Block reward 100 coins
+target Block 60s
+POS 100% per year
+POS start after 5 hours
+
+
+
 Development process
 ===========================
 
